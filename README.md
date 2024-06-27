@@ -1,5 +1,5 @@
 # Food Kiosko WebApp
-Food kiosko webapp, es una aplicacion web que permite autogestionar pedidos de comida en sitios fisicos, agilizar 
+Food kiosko webapp, es una aplicacion web que permite autogestionar pedidos de comida en puntos fisicos, agilizar 
 el proceso y mejorar la experiencia del cliente.
 
 ## Tabla de contenido
